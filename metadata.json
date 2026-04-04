@@ -1,0 +1,7 @@
+{
+  "name": "LingoFlow - AI English Learning",
+  "description": "A modern English learning app featuring AI-powered speaking practice, real-time writing correction, and contextual grammar lessons.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
